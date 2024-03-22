@@ -1,6 +1,6 @@
 import axios from "axios";
 import { RoutHistory } from "../Navigation/MainNavigation";
-const url = "https://book-management-app-backend.vercel.app/"
+const url = "https://book-management-app-backend.vercel.app"
 
 // For user creation call
 const userCreate = async (data) => {
